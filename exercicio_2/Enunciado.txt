@@ -1,0 +1,3 @@
+Considerando que a informação armazenada em uma pilha são números inteiros, implemente uma função no modúlo principal que insere elementos na pilha.
+A função não deve permitir a inclusão de números repetidos (retorna false) e deve manter os números em ordem crescente (menor número na base e maior no topo).
+Caso seja inserido um número com sucesso a função retorna true. Não é permitido o uso de vetores, apenas pilha.
